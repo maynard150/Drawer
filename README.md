@@ -1,9 +1,9 @@
-[Drawer – your clothes, matched (1).html](https://github.com/user-attachments/files/35212908/Drawer.your.clothes.matched.1.html)# Drawer – Your Clothes, Matched
+# Drawer – Your Clothes, Matched
 
 A lightweight, zero-backend digital wardrobe management and outfit-matching web application built for **Application Development and Emerging Technologies** (University of Nueva Caceres).
 
 ## Live Demo
-- **Working Web App: **
+- **Working Web App:** `https://yourusername.github.io/drawer-wardrobe-app/`
 
 ## Features
 - **Digital Closet:** Add, categorize (`Tops`, `Bottoms`, `Outerwear`, `Shoes`), color-swatch, and filter garments locally via `localStorage`.
@@ -14,4 +14,3 @@ A lightweight, zero-backend digital wardrobe management and outfit-matching web 
 ## Repository Structure
 - `index.html` — Complete Single-Page Application (HTML5, CSS3, Vanilla JS, SVG).
 - `/prompts` — SRS-linked AI Vibe Coding prompts used to architect, build, and refine the application.
-  
