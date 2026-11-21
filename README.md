@@ -3,7 +3,7 @@
 A lightweight, zero-backend digital wardrobe management and outfit-matching web application built for **Application Development and Emerging Technologies** (University of Nueva Caceres).
 
 ## Live Demo
-- **Working Web App: 
+- **Working Web App: **
 
 ## Features
 - **Digital Closet:** Add, categorize (`Tops`, `Bottoms`, `Outerwear`, `Shoes`), color-swatch, and filter garments locally via `localStorage`.
