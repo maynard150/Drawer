@@ -3,7 +3,7 @@
 A lightweight, zero-backend digital wardrobe management and outfit-matching web application built for **Application Development and Emerging Technologies** (University of Nueva Caceres).
 
 ## Live Demo
-- **Working Web App:** `[Drawer (1).html](https://github.com/user-attachments/files/35213855/Drawer.1.html)`
+- **Working Web App:** [Launch Drawer App](https://yourusername.github.io/your-repo-name/)
 
 ## Features
 - **Digital Closet:** Add, categorize (`Tops`, `Bottoms`, `Outerwear`, `Shoes`), color-swatch, and filter garments locally via `localStorage`.
